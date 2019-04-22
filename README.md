@@ -2,7 +2,7 @@
 
 
 ## ABOUT PROJECT
-A photo-sharing social networking service 
+A photo-sharing social networking service!
 * Post photos you want to keep on your profile grid. 
 * Browse photos from people you follow in your feed. 
 * Share photos to your story. 
